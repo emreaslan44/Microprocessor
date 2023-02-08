@@ -1,5 +1,6 @@
 # Processor
 32-bit processor implementation for the VHDL.
+You can check the pdf file which was named as Project_description about the detail of the project.
 
 ![image](https://user-images.githubusercontent.com/65511212/198713085-e160057d-ab0a-4c18-a5f7-e18ab25640ea.png)
 ![image](https://user-images.githubusercontent.com/65511212/198713169-194e30e8-12ee-4c09-ab18-1b7880bc2418.png)
